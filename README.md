@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="ajitadhikari" /> </p>
 
-- 📫 How to reach me **ajit07adhikari@gmail.com** or **ajit16adhikari@gmail.com**
+- 📫 How to reach me **ajit07adhikari@gmail.com** **ajit16adhikari@gmail.com**
 
 - ⚡ Fun fact **I am funny😂**
 
