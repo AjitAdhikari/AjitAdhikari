@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitadhikari&show_icons=true&locale=en&layout=compact" alt="ajitadhikari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitadhikari&show_icons=true&locale=en" alt="ajitadhikari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats(error).vercel.app/api?username=ajitadhikari&show_icons=true&locale=en" alt="" /></p>
 
 
