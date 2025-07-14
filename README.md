@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitadhikari&show_icons=true&locale=en" alt="ajitadhikari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitadhikari&" alt="ajitadhikari" /></p>
+
