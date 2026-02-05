@@ -24,7 +24,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats(error).vercel.app/api?username=ajitadhikari&show_icons=true&locale=en" alt="" /></p>
 
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt=""  />
-</div> 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AjitAdhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AjitAdhikari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjitAdhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
