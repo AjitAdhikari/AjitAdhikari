@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="ajitadhikari" /> </p>
 
 - 📫 How to reach me **ajit07adhikari@gmail.com** **ajit16adhikari@gmail.com**
-
+- 🚀 Every commit is progress. Every bug is a lesson. Every project is proof that you’re growing. 💻
 - ⚡ Fun fact **Master of awkward expressions.😂**
 
 <h3 align="left">Connect with me:</h3>
