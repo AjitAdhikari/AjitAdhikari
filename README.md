@@ -19,10 +19,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AjitAdhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-# 📅 GitHub Streak
-![](https://nirzak-streak-stats.vercel.app/?user=AjitAdhikari&theme=dark&hide_border=false)<br/>
+
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b5ddef9d-73e2-48c1-a85a-4dbe948b9575" /> Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjitAdhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjitAdhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
