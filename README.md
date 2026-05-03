@@ -1,27 +1,69 @@
-
 <h1 align="center">Hi 👋, I'm Ajit Adhikari</h1>
-<h3 align="center">A passionate frontend developer, Software Engineer from Nepal</h3>
+<h3 align="center">Frontend Developer • Software Engineer • Building Modern Web Experiences</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajitadhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="ajitadhikari" /> </p>
+---
 
-- 📫 How to reach me **ajit07adhikari@gmail.com**
-- 🚀 Every commit is progress. Every bug is a lesson. Every project is proof that you’re growing. 💻
-- ⚡ Fun fact **Master of awkward expressions.😂**
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ajit.adhikari.106/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azeet732) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-adhikari-a8baa1227/) 
+### 🚀 About Me
+- 💻 Frontend Developer focused on **React, Next.js & modern UI systems**
+- 🌱 Currently improving **full-stack skills & system design**
+- 🎯 Goal: Build scalable, high-performance web applications
+- 📫 Reach me: **ajit07adhikari@gmail.com**
+- ⚡ Fun fact: *Debugging is my daily cardio* 😄
 
-# 💻 Tech Stack:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ajit-adhikari-a8baa1227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/azeet732" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/ajit.adhikari.106/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AjitAdhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+---
 
-# <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b5ddef9d-73e2-48c1-a85a-4dbe948b9575" /> Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjitAdhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,c,cpp,mysql" />
+</p>
 
+---
 
+### 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjitAdhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjitAdhikari&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AjitAdhikari&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### ✨ Philosophy
+> *"Every commit is progress. Every bug is a lesson. Every project proves growth."*
+
+---
+
+### 🚀 Current Focus
+- Building **production-ready frontend architectures**
+- Working with **Supabase & modern backend integrations**
+- Improving **UI/UX and performance optimization**
+
+---
