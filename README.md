@@ -67,6 +67,16 @@
 </p>
 
 ---
+### 📊 GitHub Analytics 
+
+<div align="center">
+  <a href="https://github.com/ajitadhikari">
+    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajitadhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ajit's GitHub Stats" />
+    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajitadhikari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+---
 
 ### 🏆 GitHub Trophies
 
@@ -84,16 +94,10 @@
   <img src="https://raw.githubusercontent.com/ajitadhikari/ajitadhikari/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
+
 ---
-
-### 📊 GitHub Analytics & Streak
-
-<div align="center">
-  <a href="https://github.com/ajitadhikari">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajitadhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitadhikari&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-  <br/><br/>
+## 🔥 GitHub Streak
+  <div align="center">
   <a href="https://github.com/ajitadhikari">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitadhikari&theme=tokyonight&hide_border=true" />
   </a>
