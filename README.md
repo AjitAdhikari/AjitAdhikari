@@ -82,7 +82,7 @@
 
 <div align="center">
   <a href="https://github.com/ajitadhikari">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajitadhikari&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="Ajit's Trophies" width="100%"/>
+    <img src="https://github-profile-trophy-alpha.vercel.app/?username=ajitadhikari&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=false&no-frame=false" alt="Ajit's GitHub Trophies" width="100%" />
   </a>
 </div>
 
@@ -96,7 +96,7 @@
 
 
 ---
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
   <div align="center">
   <a href="https://github.com/ajitadhikari">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitadhikari&theme=tokyonight&hide_border=true" />
@@ -104,14 +104,14 @@
 </div>
 
 ---
-
-### ⚡ Activity Graph
+ <!--### ⚡ Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitadhikari&theme=tokyo-night&hide_border=true&bg_color=1a1b26" width="100%" />
 </div>
 
 ---
+-->
 
 ### 😄 Developer Joke of the Day
 
