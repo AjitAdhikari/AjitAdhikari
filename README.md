@@ -96,6 +96,7 @@
 
 
 ---
+<!--
 ### 🔥 GitHub Streak
   <div align="center">
   <a href="https://github.com/ajitadhikari">
@@ -104,6 +105,7 @@
 </div>
 
 ---
+-->
  <!--### ⚡ Activity Graph
 
 <div align="center">
