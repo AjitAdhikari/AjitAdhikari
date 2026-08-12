@@ -65,9 +65,10 @@
     <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,bootstrap,nodejs,express,mysql,supabase,git,github,vscode,vercel,c,cpp&perline=9&theme=dark" />
   </a>
 </p>
-
 ---
-### 📊 GitHub Analytics 
+
+
+ <!--### 📊 GitHub Analytics 
 
 <div align="center">
   <a href="https://github.com/ajitadhikari">
@@ -75,8 +76,11 @@
     <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajitadhikari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
-
 ---
+-->
+
+
+
 
 ### 🏆 GitHub Trophies
 
