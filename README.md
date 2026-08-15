@@ -65,7 +65,7 @@
     <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,bootstrap,nodejs,express,mysql,supabase,git,github,vscode,vercel,c,cpp&perline=9&theme=dark" />
   </a>
 </p>
----
+
 
 
  <!--### 📊 GitHub Analytics 
@@ -80,7 +80,7 @@
 -->
 
 
-
+---
 
 ### 🏆 GitHub Trophies
 
