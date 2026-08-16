@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <!-- Badges Grid / Social Links -->
+  <!--   Badges Grid / Social Links -->
   <a href="https://www.linkedin.com/in/ajit-adhikari-a8baa1227/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
