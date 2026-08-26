@@ -85,17 +85,18 @@
   </a>
 </div>
 -->
-
----
+<!--
 ### 🔥 GitHub Streak
-
+<!--
 <div align="center">
   <a href="https://github.com/ajitadhikari">
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitadhikari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+-->
 
 ---
+
 
 ### 🏆 GitHub Trophies
 
