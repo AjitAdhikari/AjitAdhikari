@@ -3,7 +3,7 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=220&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20Ajit%20Adhikari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <!-- Animated Typing Tagline -->
+  <!-- Animated Typing Tagline   -->
   <a href="https://github.com/ajitadhikari">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+Next.js+Specialist;Building+Modern+UI%2FUX;Exploring+Supabase+%26+Cloud+Tech;Always+Learning+%26+Innovating" alt="Typing SVG" />
   </a>
