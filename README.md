@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
   <!-- Header Banners -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=220&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20Ajit%20Adhikari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
