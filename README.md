@@ -76,6 +76,8 @@
     <img height="180" src="https://github-stats-alpha.vercel.app/api?username=ajitadhikari&theme=tokyonight" alt="Ajit's GitHub Stats" />
   </a>
 </div>
+
+ ---
 <!--
 <div align="center">
   <a href="https://github.com/ajitadhikari">
@@ -84,15 +86,15 @@
   </a>
 </div>
 -->
-<!--
+
 ### 🔥 GitHub Streak
-<!--
+
 <div align="center">
   <a href="https://github.com/ajitadhikari">
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitadhikari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
--->
+
 
 ---
 
